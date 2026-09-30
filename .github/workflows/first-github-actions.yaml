@@ -1,9 +1,0 @@
-name: My World flow
-on: [push]
-
-jobs:
-  run-shell-command:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Econ a string
-        run: echo "Hello!" 

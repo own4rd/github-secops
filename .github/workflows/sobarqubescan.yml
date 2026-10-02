@@ -1,4 +1,3 @@
-name: SonarCloud Check Sample
 on:
   push:
     branches:
